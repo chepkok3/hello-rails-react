@@ -9,9 +9,14 @@ gem 'rails', '~> 7.0.5'
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem 'sprockets-rails'
 
+gem 'dotenv-rails', groups: %i[development test]
+
+gem 'rack-cors', require: 'rack/cors'
+
 # Use postgresql as the database for Active Record
 gem 'pg', '~> 1.1'
 
+gem 'foreman'
 # Use the Puma web server [https://github.com/puma/puma]
 gem 'puma', '~> 5.0'
 
