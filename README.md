@@ -140,6 +140,6 @@ I would like to appreciate [Microverse](https://www.microverse.org/) for providi
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/chepkok3/hello-rails-react/blob/one-app-with-Webpack/MIT%20License) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
